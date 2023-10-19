@@ -1,0 +1,8 @@
+div{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
